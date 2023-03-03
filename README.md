@@ -1,1 +1,1 @@
-# InfinitySpace.github.io
+# infinityspace.github.io
